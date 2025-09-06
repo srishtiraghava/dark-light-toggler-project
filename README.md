@@ -12,6 +12,7 @@ developed with *vanilla JavaScript, CSS, and HTML*, this project demonstrates ho
 - 🌍 *worldwide Usability* – can be embedded in any web project or portfolio  
 - ♿ *Accessibility-Focused* – enhances readability in varying light conditions
 - mobile friendly design
+- tech stack~html,css and basic javascript
 
 ---
 
