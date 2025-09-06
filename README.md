@@ -1,4 +1,3 @@
-
  🌗 Light–Dark Mode Toggler  
 
 A simple beginner level *theme-switching utility* that allows users to glide between *daylight clarity* and *night-friendly darkness* with a single tap.  
