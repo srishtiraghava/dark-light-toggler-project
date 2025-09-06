@@ -17,7 +17,7 @@ developed with *vanilla JavaScript, CSS, and HTML*, this project demonstrates ho
 ---
 
 ## 🚀 Live Preview
-Check out the demo: [Light–Dark Toggler](https://your-username.github.io/light-dark-toggler)  
+Check out the demo: [Light–Dark Toggler](https://github.com/srishtiraghava/dark-light-toggler-project/blob/main/README.md#-lightdark-mode-togglerr)  
 
 ---
 
