@@ -115,3 +115,7 @@ This project is licensed under MIT License.
 
 ✨## Created by_Srishti Raghava
 ~with lots of effort and hardwork
+bash
+GET https://api.github.com/repos/srishtiraghava/dark-light-toggler-project
+js
+const decoded = atob(response.content);
