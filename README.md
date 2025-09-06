@@ -1,5 +1,6 @@
 
-# 🌗 Light–Dark Mode Toggler  
+hava
+-with lot of hardwork and effo# 🌗 Light–Dark Mode Toggler  
 
 A simple beginner level *theme-switching utility* that allows users to glide between *daylight clarity* and *night-friendly darkness* with a single tap.  
 developed with *vanilla JavaScript, CSS, and HTML*, this project demonstrates how a small interaction can significantly improve accessibility, comfort, and design elegance.  
@@ -35,5 +36,4 @@ Check out the demo: [Light–Dark Toggler](https://github.com/srishtiraghava/dar
 This project is licensed under MIT License.
 ---
 
-✨## Created by_Srishti Raghava
--with lot of hardwork and efforts
+✨## Created by_Srishti Ragrts
