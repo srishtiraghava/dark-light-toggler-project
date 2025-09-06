@@ -24,6 +24,8 @@ Check out the demo: [Light–Dark Toggler](https://github.com/srishtiraghava/dar
 ## How to Run
 1.open srishti.html in your browser
 2.click the toggle button🔘-enjoy switching between light and dark
+---
+
 ## How it Works
 1. CSS variable define all the theme colors
 2. JavaScript toggles a dark-mode class on <body>
@@ -35,11 +37,10 @@ Check out the demo: [Light–Dark Toggler](https://github.com/srishtiraghava/dar
 This project is licensed under MIT License.
 ---
 
-✨## Created by_Srishti Ragrts
+✨## Created by_Srishti Raghava
 
-hava
 -with lot of hardwork and effo# 🌗 Light–Dark Mode Toggler  
-
+---
 A simple beginner level *theme-switching utility* that allows users to glide between *daylight clarity* and *night-friendly darkness* with a single tap.  
 developed with *vanilla JavaScript, CSS, and HTML*, this project demonstrates how a small interaction can significantly improve accessibility, comfort, and design elegance.  
 
@@ -115,7 +116,10 @@ This project is licensed under MIT License.
 
 ✨## Created by_Srishti Raghava
 ~with lots of effort and hardwork
+---
 bash
 GET https://api.github.com/repos/srishtiraghava/dark-light-toggler-project
+---
 js
 const decoded = atob(response.content);
+---
