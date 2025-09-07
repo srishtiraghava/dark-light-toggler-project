@@ -2,11 +2,11 @@
 
 A simple beginner level *theme-switching utility* that allows users to glide between *daylight clarity* and *night-friendly darkness* with a single tap.  
 developed with *vanilla JavaScript, CSS, and HTML*, this project demonstrates how a small interaction can significantly improve accessibility, comfort, and design elegance.  
-[![GitHub stars](https://img.shields.io/github/stars/srishtiraghava/dark-light-toggler?style=social)](https://github.com/srishtiraghava/dark-light-toggler/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/srishtiraghava/dark-light-toggler?style=social)](https://github.com/srishtiraghava/dark-light-toggler/network/members)
-[![GitHub issues](https://img.shields.io/github/issues/srishtiraghava/dark-light-toggler)](https://github.com/srishtiraghava/dark-light-toggler/issues)
-[![GitHub license](https://img.shields.io/github/license/srishtiraghava/dark-light-toggler)](https://github.com/srishtiraghava/dark-light-toggler/blob/main/LICENSE)
-[![Last Commit](https://img.shields.io/github/last-commit/srishtiraghava/dark-light-toggler)](https://github.com/srishtiraghava/dark-light-toggler/commits/main)
+[![GitHub stars](https://img.shields.io/github/stars/srishtiraghava/dark-light-toggler-project?style=social)](https://github.com/srishtiraghava/dark-light-toggler-project/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/srishtiraghava/dark-light-toggler-project?style=social)](https://github.com/srishtiraghava/dark-light-toggler-project/network/members)
+[![GitHub issues](https://img.shields.io/github/issues/srishtiraghava/dark-light-toggler-project)](https://github.com/srishtiraghava/dark-light-toggler-project/issues)
+[![GitHub license](https://img.shields.io/github/license/srishtiraghava/dark-light-toggler-project)](https://github.com/srishtiraghava/dark-light-toggler-project/blob/main/LICENSE)
+[![Last Commit](https://img.shields.io/github/last-commit/srishtiraghava/dark-light-toggler-project)](https://github.com/srishtiraghava/dark-light-toggler-project/commits/main)
 
 ---
 
