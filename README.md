@@ -62,6 +62,7 @@ import google.generativeai as genai
 genai.configure(api_key="YOUR_API_KEY")
 ---
 python
+----
 prompt = """
 Generate a professional project description for a Dark-Light Toggler web app. 
 The app allows users to switch between dark and light themes using a toggle button. 
